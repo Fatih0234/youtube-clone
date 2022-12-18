@@ -5,6 +5,7 @@
 
 <p align="left">
 Hey people, here I have a youtube clone project for you made of html&css. I have been learning html and css since a while and this my first web application project. Super excited already about web application. Keep tuned. 
+<a href="http://127.0.0.1:5500/youtube.html" target="_blank"> Click Here to see the project</a>
 </p>
 
 - 🌱 I’m currently learning **data structures and web development**
